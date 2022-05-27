@@ -34,3 +34,6 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+      - name: Set your env variables here
+        run: |
+          echo "TOKEN_KEY='charlieinaction'"

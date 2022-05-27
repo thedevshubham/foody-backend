@@ -36,4 +36,7 @@ jobs:
           echo test, and deploy your project.
       - name: Set your env variables here
         run: |
-          echo "TOKEN_KEY='charlieinaction'"
+          touch .env
+          echo PORT=3000 >> .env
+          echo TOKEN_KEY="charlieinaction" >> .env
+          cat .env

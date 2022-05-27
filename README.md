@@ -1,4 +1,4 @@
-## The node.js application
+## A node.js application
 
 # Food delivery website backend
 

@@ -1,0 +1,750 @@
+{
+  "3218b028-27ef-464c-903b-e91ffc8a4ef8": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Brownese",
+    "location": "Sector-21"
+  },
+  "94af632f-dc41-46a8-8dfa-ft54erft56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Coffee and Mug",
+    "location": "Sector-22"
+  },
+  "94af632f-dc41-46a8-8dfa-ft54erhfjr75": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Cake n Cake",
+    "location": "Sector-23"
+  },
+  "94af632f-dc41-46a8-8dfa-ft54errywrywiu": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Eat All",
+    "location": "Sector-24"
+  },
+  "94af632f-dc41-46a8-8dfa-ft54erft758ru": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Shama",
+    "location": "Sector-25"
+  },
+  "94af632f-dc41-46a8-8dfa-ft5eerft56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Bikers Cafe",
+    "location": "Sector-26"
+  },
+  "94af632f-dc41-46a8-8dfa-ft34trft56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Zone All",
+    "location": "Sector-27"
+  },
+  "94af632f-dc41-46a8-8dfa-fbh7erft56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "V The One",
+    "location": "Sector-28"
+  },
+  "94af632f-dc41-46a8-8dfa-ft5mmkft56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Cups n Cone",
+    "location": "Sector-29"
+  },
+  "94af632f-dc41-46a8-8dfa-ft543r5t56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Cone n Coke",
+    "location": "Sector-30"
+  },
+  "94af632f-dc41-46a8-8dfa-ft54eh7t56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Freeze",
+    "location": "Sector-31"
+  },
+  "94af632f-dc41-46a8-8dfa-ft54ui8t56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Cool Here",
+    "location": "Sector-32"
+  },
+  "94af632f-dc41-46a8-8dfa-ft5lop0t56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Creme Bell",
+    "location": "Sector-20"
+  },
+  "94af632f-dc41-46a8-8dfa-ft123ert56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Cold n Cream",
+    "location": "Sector-21"
+  },
+  "94af632f-dc41-46a8-8dfa-ft76utjt56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Brushhh",
+    "location": "Sector-22"
+  },
+  "94af632f-dc41-46a8-8dfa-ftwewedt56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Calm Down",
+    "location": "Sector-22"
+  },
+  "94af632f-dc41-46a8-8dfa-ft542dct56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Whoosh",
+    "location": "Sector-22"
+  },
+  "94af632f-dc41-46a8-8dfa-ftvfc22t56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Whipped Cream n Cold",
+    "location": "Sector-25"
+  },
+  "94af632f-dc41-46a8-8dfa-ft50p0ft56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Live Here",
+    "location": "Sector-26"
+  },
+  "94af632f-dc41-46a8-8dfa-fwe78k3t56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Stay Cool",
+    "location": "Sector-27"
+  },
+  "94af632f-dc41-46a8-8dfa-f0pl12ft56th": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Biryani",
+        "price": 200
+      }
+    ],
+    "starter": [
+      {
+        "item": "Fries",
+        "price": 150
+      },
+      {
+        "item": "Chilli potato",
+        "price": 250
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Chocolate",
+        "price": 150
+      }
+    ],
+    "outletName": "Organic Ice Cream",
+    "location": "Sector-28"
+  },
+  "94af632f-dc41-46a8-8dfa-ft54mk0t569l": {
+    "mainCourse": [
+      {
+        "item": "Rice",
+        "price": 100
+      },
+      {
+        "item": "Dal Fry",
+        "price": 80
+      }
+    ],
+    "starter": [
+      {
+        "item": "Honey chilli potato",
+        "price": 110
+      },
+      {
+        "item": "Paneer tikka",
+        "price": 120
+      }
+    ],
+    "iceCream": [
+      {
+        "item": "Vanilla",
+        "price": 100
+      },
+      {
+        "item": "Butter scotch",
+        "price": 100
+      }
+    ],
+    "outletName": "Fruit Ice Cream",
+    "location": "Sector-29"
+  }
+}
